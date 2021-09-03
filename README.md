@@ -1,6 +1,6 @@
 # LABs
 
-## 102_SimplificandoChamadasAss-ncronasCoroutines
+## 102_SimplificandoChamadasAssincronasCoroutines
 
 Simplificando Chamadas Assíncronas com Coroutines
 
