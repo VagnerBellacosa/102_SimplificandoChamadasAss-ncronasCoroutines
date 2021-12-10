@@ -1,3 +1,5 @@
+# TODO Lista
+
 ## Conteúdo
 
 ### Introduction
@@ -6,11 +8,8 @@
 
 - Tutorial Application
 
-  
 
 ### Coroutines Intuition
-
-
 
 - Coroutine Scope Cancellation
 
@@ -28,7 +27,6 @@
 
 - Exceptions Handling
 
-- 
 
 ## Requisitos
 
